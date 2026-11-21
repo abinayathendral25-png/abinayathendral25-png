@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Abinaya Thendral! 👋
 
-<!--
-**abinayathendral25-png/abinayathendral25-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Engineering Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+I'm a B.Tech Computer Science and Engineering student specializing in Artificial Intelligence and Machine Learning at Kalasalingam Academy of Research and Education.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in software development,machine learning, problem-solving, and building practical technology solutions.
+
+### 🎓 Education
+- B.Tech CSE (AI & ML)
+- Kalasalingam Academy of Research and Education
+- CGPA: 9.47
+
+### 💻 Technical Skills
+
+**Programming Languages**
+- C
+- Python
+- Java
+
+**Databases**
+- SQL
+- MongoDB
+
+**Tools**
+- StarUML
+- Cisco Packet Tracer
+
+### 🚀 Projects
+
+- **Farm2Home:** Smart agriculture platform connecting farmers and consumers.
+- **Fraud Activity Monitor:** Project focused on monitoring potentially fraudulent activities.
+
+### 🌱 Currently Learning
+- Data Structures and Algorithms
+- Software Development
+- Artificial Intelligence and Machine Learning
+
+### 📫 Connect With Me
+
+- GitHub: [@abinayathendral25-png](https://github.com/abinayathendral25-png)
+
+---
+
+⭐ Thanks for visiting my profile!
